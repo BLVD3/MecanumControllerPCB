@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pico")(type "KiCad")(uri "${KIPRJMOD}/Imported/Symbols/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "P7805-2000-S")(type "KiCad")(uri "${KIPRJMOD}/Imported/Symbols/P7805-2000-S.kicad_sym")(options "")(descr ""))
+  (lib (name "LMR51420YFDDCR")(type "KiCad")(uri "${KIPRJMOD}/Imported/Symbols/LMR51420YFDDCR.kicad_sym")(options "")(descr ""))
+)
